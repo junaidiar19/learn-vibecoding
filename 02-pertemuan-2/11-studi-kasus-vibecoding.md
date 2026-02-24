@@ -12,7 +12,7 @@ Ingat prinsip **Architect First**.
 > - **Requirement**: 3 role (Admin, Instructor, Student).
 > - **Goal**: Student bisa beli kursus dan belajar lewat video/materi.
 > - **Architecture**: Saya ingin kode yang **SOLID**, pisahkan logic bisnis ke dalam **Service Classes**, jangan tumpuk semua di Controller.
-> - **Vibe UI**: Dark Mode, Glassmorphism, Tailwind CSS, smooth animations.
+> - **Vibe UI**: Light Mode, Glassmorphism, Tailwind CSS, smooth animations.
 > Tolong buatkan dulu Entity Relationship Diagram (ERD) dan rencana modul pengerjaannya."
 
 ---
