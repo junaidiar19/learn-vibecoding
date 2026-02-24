@@ -26,17 +26,17 @@ graph TD
 ```
 
 **Pemain Utama (Big 3):**
-1.  **AWS (Amazon Web Services):** Terbesar, paling lengkap, tapi juga paling kompleks.
-2.  **Google Cloud Platform (GCP):** Unggul di bidang Data, AI, dan kemudahan integrasi dengan ekosistem Google.
-3.  **Microsoft Azure:** Pilihan utama untuk perusahaan yang sudah menggunakan teknologi Microsoft.
+1.  **[AWS (Amazon Web Services)](https://aws.amazon.com):** Terbesar, paling lengkap, tapi juga paling kompleks.
+2.  **[Google Cloud Platform (GCP)](https://cloud.google.com):** Unggul di bidang Data, AI, dan kemudahan integrasi dengan ekosistem Google.
+3.  **[Microsoft Azure](https://azure.microsoft.com):** Pilihan utama untuk perusahaan yang sudah menggunakan teknologi Microsoft.
 
 ## 2. Server Managers (Modern Hosting)
 VPS seringkali sulit dikelola bagi pemula (harus pakai Terminal/CLI). **Server Managers** memudahkan kita mengelola VPS melalui tampilan web (Dashboard).
 
 **Contoh Populer:**
-- **RunCloud:** UI keren untuk mengelola server PHP/Laravel di VPS manapun (Vultr, DigitalOcean, Linode).
-- **Laravel Forge:** Tool resmi dari pembuat Laravel untuk setup server secepat kilat.
-- **Ploi:** Alternatif Forge dengan fitur yang sangat melimpah.
+- **[RunCloud](https://runcloud.io):** UI keren untuk mengelola server PHP/Laravel di VPS manapun (**[Vultr](https://www.vultr.com)**, **[DigitalOcean](https://www.digitalocean.com)**, **[Linode](https://www.linode.com)**).
+- **[Laravel Forge](https://forge.laravel.com):** Tool resmi dari pembuat Laravel untuk setup server secepat kilat.
+- **[Ploi](https://ploi.io):** Alternatif Forge dengan fitur yang sangat melimpah.
 
 ### cPanel vs Server Managers Modern
 Apa bedanya cPanel yang biasa kita temui di Shared Hosting dengan Server Managers (RunCloud/Forge)?
@@ -56,17 +56,17 @@ Apa bedanya cPanel yang biasa kita temui di Shared Hosting dengan Server Manager
 Layanan yang membuat Anda tidak perlu lagi membuat backend secara manual. Fitur seperti Database, Auth, dan File Storage sudah disediakan. Anda tinggal panggil lewat kode Frontend.
 
 **Contoh Populer:**
-- **Supabase:** Sering disebut sebagai kompetitor Firebase yang open-source dan berbasis SQL (PostgreSQL).
-- **Firebase:** Produk Google yang sangat populer untuk aplikasi mobile dan web real-time.
-- **PocketBase:** Alternatif ringan yang berbasis SQLite.
+- **[Supabase](https://supabase.com):** Sering disebut sebagai kompetitor Firebase yang open-source dan berbasis SQL (PostgreSQL).
+- **[Firebase](https://firebase.google.com):** Produk Google yang sangat populer untuk aplikasi mobile dan web real-time.
+- **[PocketBase](https://pocketbase.io):** Alternatif ringan yang berbasis SQLite.
 
 ## 4. Platform as a Service (PaaS)
 Fokus hanya pada kode Anda. Tidak butuh setup server sama sekali (*No server management*). Anda tinggal hubungkan GitHub, dan website langsung online.
 
 **Contoh Populer:**
-- **Vercel:** Standar emas untuk aplikasi Next.js dan React.
-- **Netlify:** Sangat populer untuk Static Site (Hugo, Jekyll, Eleventy).
-- **Railway / Heroku:** Paling mudah untuk deploy backend aplikasi (Node.js, Python, Laravel).
+- **[Vercel](https://vercel.com):** Standar emas untuk aplikasi Next.js dan React.
+- **[Netlify](https://www.netlify.com):** Sangat populer untuk Static Site (Hugo, Jekyll, Eleventy).
+- **[Railway](https://railway.app)** / **[Heroku](https://www.heroku.com)**: Paling mudah untuk deploy backend aplikasi (Node.js, Python, Laravel).
 
 ---
 

@@ -53,8 +53,8 @@ Dua jenis hosting yang paling umum digunakan adalah Shared Hosting dan VPS (Virt
 
 ## 4. cPanel: Remote Control untuk Shared Hosting
 Di dunia Shared Hosting, Anda biasanya akan mendapatkan akses ke **cPanel**.
-- **cPanel** adalah Dashboard (tampilan web) yang memudahkan Anda mengelola hosting tanpa perlu mengetik kode perintah (coding).
-- Melalui cPanel, Anda bisa membuat email bisnis (contoh: `admin@tokoanda.com`), mengupload file, membuat database, hingga menginstal WordPress hanya dengan satu klik.
+- **[cPanel](https://cpanel.net)** adalah Dashboard (tampilan web) yang memudahkan Anda mengelola hosting tanpa perlu mengetik kode perintah (coding).
+- Melalui **cPanel**, Anda bisa membuat email bisnis (contoh: `admin@tokoanda.com`), mengupload file, membuat database, hingga menginstal WordPress hanya dengan satu klik.
 
 ## 5. Apa itu Domain?
 **Domain** adalah nama unik yang digunakan untuk mengidentifikasi alamat IP server agar lebih mudah diingat manusia.
