@@ -31,6 +31,20 @@ Materi ini mengajarkan cara menggunakan AI (Antigravity) untuk mempercepat prose
     Implementasi nyata membangun aplikasi kompleks 3 role dengan fitur pembayaran.
 
 ---
+
+## Pertemuan 3: Hosting, Server, dan Domain
+Materi ini membahas bagaimana cara membuat aplikasi kita bisa diakses di internet dan memahami ekosistem infrastruktur modern.
+
+12. [**Konsep Hosting, Server, & Domain**](03-pertemuan-3/12-konsep-hosting-server-domain.md)
+    Memahami analogi server, perbedaan Shared Hosting vs VPS.
+13. [**Bagaimana Website Bisa Diakses?**](03-pertemuan-3/13-cara-kerja-internet.md)
+    Memahami flow DNS, Request & Response, dan IP Address.
+14. [**Arsitektur Website: Monolith vs Microservices**](03-pertemuan-3/14-arsitektur-website-monolith-microservices.md)
+    Kelebihan dan kekurangan dua pendekatan arsitektur paling populer.
+15. [**Ekosistem Cloud Modern**](03-pertemuan-3/15-ekosistem-cloud-modern.md)
+    Mengenal Cloud Providers (AWS/GCP), Server Managers, dan BaaS (Supabase/Firebase).
+
+---
 > [!TIP]
 > **Apa itu Vibecoding?**
 > Gunakan asisten AI (seperti saya) untuk membantu menjelaskan konsep yang sulit, mencari bug, atau memberikan saran arsitektur. Fokuslah pada *pemahaman logika*, biarkan AI membantu tugas *syntax* yang repetitif.
